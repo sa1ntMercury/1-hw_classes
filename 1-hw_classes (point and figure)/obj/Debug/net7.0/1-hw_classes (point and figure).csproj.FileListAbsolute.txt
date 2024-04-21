@@ -1,0 +1,15 @@
+/Users/sa1nt_mercury/Projects/cbs homeworks/1-hw_classes (point and figure)/bin/Debug/net7.0/1-hw_classes (point and figure)
+/Users/sa1nt_mercury/Projects/cbs homeworks/1-hw_classes (point and figure)/bin/Debug/net7.0/1-hw_classes (point and figure).deps.json
+/Users/sa1nt_mercury/Projects/cbs homeworks/1-hw_classes (point and figure)/bin/Debug/net7.0/1-hw_classes (point and figure).runtimeconfig.json
+/Users/sa1nt_mercury/Projects/cbs homeworks/1-hw_classes (point and figure)/bin/Debug/net7.0/1-hw_classes (point and figure).dll
+/Users/sa1nt_mercury/Projects/cbs homeworks/1-hw_classes (point and figure)/bin/Debug/net7.0/1-hw_classes (point and figure).pdb
+/Users/sa1nt_mercury/Projects/cbs homeworks/1-hw_classes (point and figure)/obj/Debug/net7.0/1-hw_classes (point and figure).csproj.AssemblyReference.cache
+/Users/sa1nt_mercury/Projects/cbs homeworks/1-hw_classes (point and figure)/obj/Debug/net7.0/1-hw_classes (point and figure).GeneratedMSBuildEditorConfig.editorconfig
+/Users/sa1nt_mercury/Projects/cbs homeworks/1-hw_classes (point and figure)/obj/Debug/net7.0/1-hw_classes (point and figure).AssemblyInfoInputs.cache
+/Users/sa1nt_mercury/Projects/cbs homeworks/1-hw_classes (point and figure)/obj/Debug/net7.0/1-hw_classes (point and figure).AssemblyInfo.cs
+/Users/sa1nt_mercury/Projects/cbs homeworks/1-hw_classes (point and figure)/obj/Debug/net7.0/1-hw_classes (point and figure).csproj.CoreCompileInputs.cache
+/Users/sa1nt_mercury/Projects/cbs homeworks/1-hw_classes (point and figure)/obj/Debug/net7.0/1-hw_classes (point and figure).dll
+/Users/sa1nt_mercury/Projects/cbs homeworks/1-hw_classes (point and figure)/obj/Debug/net7.0/refint/1-hw_classes (point and figure).dll
+/Users/sa1nt_mercury/Projects/cbs homeworks/1-hw_classes (point and figure)/obj/Debug/net7.0/1-hw_classes (point and figure).pdb
+/Users/sa1nt_mercury/Projects/cbs homeworks/1-hw_classes (point and figure)/obj/Debug/net7.0/1-hw_classes (point and figure).genruntimeconfig.cache
+/Users/sa1nt_mercury/Projects/cbs homeworks/1-hw_classes (point and figure)/obj/Debug/net7.0/ref/1-hw_classes (point and figure).dll
